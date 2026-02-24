@@ -1,0 +1,19 @@
+{
+  "name": "software-engineer-challenge-01",
+  "version": "1.0.0",
+  "description": "Develop a solution to help the San Francisco team find food trucks near their location and based on their preferred food. The solution should return at least the closest food trucks options based on latitude, longitude, and preferred food.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buhlergroup/software-engineer-challenge-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buhlergroup/software-engineer-challenge-01/issues"
+  },
+  "homepage": "https://github.com/buhlergroup/software-engineer-challenge-01#readme"
+}
