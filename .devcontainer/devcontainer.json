@@ -1,0 +1,20 @@
+{
+  "name": "NestJS Challenge",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "postCreateCommand": "npm install -g @nestjs/cli",
+  "forwardPorts": [
+    3000
+  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  },
+  "remoteUser": "node"
+}
+
