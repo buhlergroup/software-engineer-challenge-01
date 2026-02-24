@@ -1,20 +1,16 @@
 {
-  "name": "NestJS Challenge",
-  "build": {
-    "dockerfile": "Dockerfile"
+  "name": "Node.js & TypeScript Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
   },
-  "postCreateCommand": "npm install -g @nestjs/cli",
-  "forwardPorts": [
-    3000
-  ],
   "customizations": {
     "vscode": {
       "extensions": [
         "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-typescript-next"
       ]
     }
-  },
-  "remoteUser": "node"
+  }
 }
-
