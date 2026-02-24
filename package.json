@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/buhlergroup/software-engineer-challenge-01/issues"
   },
-  "homepage": "https://github.com/buhlergroup/software-engineer-challenge-01#readme"
+  "homepage": "https://github.com/buhlergroup/software-engineer-challenge-01#readme",
+  "engines": {
+    "node": "22.x"
+  }
 }

@@ -15,4 +15,12 @@ Develop a solution to help the San Francisco team find food trucks near their lo
 ### Additional Information:
 - San Francisco's food truck open dataset CSV dump of the latest data: [csv_dump_link](Mobile_Food_Facility_Permit.csv)
 - The solution should be read-only and not require any updates.
-- No AI tools are allowed for this challenge. Just the [NestJS](https://docs.nestjs.com/)  documentation can be used as a reference.
+- No AI tools are allowed for this challenge. 
+- [NestJS](https://docs.nestjs.com/) documentation can be used as a reference.
+- Searching in the internet for any additional information is allowed.
+- Runtime requirement: Node.js LTS 22.x.
+
+### Prerequisites:
+- Node.js LTS 22.x installed on your machine.
+- Git installed for version control.
+- Optional: GitHub account.
