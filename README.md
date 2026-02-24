@@ -15,5 +15,4 @@ Develop a solution to help the San Francisco team find food trucks near their lo
 ### Additional Information:
 - San Francisco's food truck open dataset CSV dump of the latest data: [csv_dump_link](Mobile_Food_Facility_Permit.csv)
 - The solution should be read-only and not require any updates.
-- [NestJS](https://docs.nestjs.com/) documentation is allowed.
-- AI tools are not allowed for this challenge. The solution should be implemented by the candidate without any external assistance.
+- No AI tools are allowed for this challenge. Just the [NestJS](https://docs.nestjs.com/)  documentation can be used as a reference.
