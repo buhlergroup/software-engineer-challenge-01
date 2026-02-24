@@ -23,4 +23,5 @@ Develop a solution to help the San Francisco team find food trucks near their lo
 ### Prerequisites:
 - Node.js LTS 22.x installed on your machine.
 - Git installed for version control.
-- Optional: GitHub account.
+- Preferred Integrated Development Environment (IDE) such as Visual Studio Code or JetBrains Webstorm.
+- Optional: When using codespaces, ensure you have a GitHub account and installed VS Code with the GitHub Codespaces extension.
